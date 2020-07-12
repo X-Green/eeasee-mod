@@ -1,0 +1,13 @@
+{
+  "eeaseemod.gui.setting_screen": "设置选项",
+
+  "eeaseemod.gui.setting_screen.survival": "生存实用",
+  "eeaseemod.gui.setting_screen.mind_boom": "沙雕",
+
+  "eeaseemod.config.isExplosionDamageDisplayed": "是否显示爆炸伤害",
+  "eeaseemod.config.enableCustomDinnerbone": "是否开启生物颠倒功能",
+  "eeaseemod.config.entityRotation": "生物渲染颠倒的角度",
+  "eeaseemod.config.entityYShift": "生物渲染上下的位移",
+  "eeaseemod.config.enableYRotateWithPosition": "生物一边走一边转",
+  "eeaseemod.config.entitySpinningSpeed": "生物旋转速度"
+}

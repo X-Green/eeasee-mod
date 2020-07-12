@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "eeasee",
+  "version": "${version}",
+
+  "name": "Eeasee Mod",
+  "description": "a mod by eeasee with various functions",
+  "authors": [
+    "eeasee"
+  ],
+  "contact": {
+    "bilibili": "https://space.bilibili.com/28256514/",
+    "sources": "https://github.com/X-Green/eeasee-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/eeaseemod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.eeasee.eeaseemod.Main"
+    ]
+  },
+  "mixins": [
+    "eeaseemod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.6.2",
+    "fabric": "*",
+    "malilib": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

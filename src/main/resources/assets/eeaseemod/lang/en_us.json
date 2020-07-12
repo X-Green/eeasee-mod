@@ -1,0 +1,13 @@
+{
+  "eeaseemod.gui.setting_screen": "Settings",
+
+  "eeaseemod.gui.setting_screen.survival": "Survival",
+  "eeaseemod.gui.setting_screen.mind_boom": "Mind BOOM",
+
+  "eeaseemod.config.isExplosionDamageDisplayed": "isExplosionDamageDisplayed",
+  "eeaseemod.config.enableCustomDinnerbone": "enableCustomDinnerbone",
+  "eeaseemod.config.entityRotation": "entityRotation",
+  "eeaseemod.config.entityYShift": "entityYShift",
+  "eeaseemod.config.enableYRotateWithPosition": "enableYRotateWithPosition",
+  "eeaseemod.config.entitySpinningSpeed": "entitySpinningSpeed"
+}
